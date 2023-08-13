@@ -1,2 +1,1 @@
-# gabrielf11
-a small website to host my projects and stuff
+welcome to my website! practically everything is gone so expect almost everything to be missing.
