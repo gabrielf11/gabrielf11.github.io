@@ -1,3 +1,5 @@
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme
+theme: minima
+minima:
+  social_links:
+    - { platform: github,  user_url: "https://github.com/gabrielf11" }
+    - { platform: youtube, user_url: "https://www.youtube.com/@gabrielf111" }
