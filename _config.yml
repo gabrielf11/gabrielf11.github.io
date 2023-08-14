@@ -1,12 +1,13 @@
-remote_theme: jekyll/minima
+# remote_theme: jekyll/minima
+theme: minima
 
 plugins:
   - jekyll-seo-tag
-  - jekyll-feed
+  # - jekyll-feed
   - jekyll-remote-theme
 
 minima:
-  skin: dark
+  skin: auto
   social_links:
     - { platform: github,  user_url: "https://github.com/gabrielf11" }
     - { platform: youtube, user_url: "https://www.youtube.com/@gabrielf111" }
