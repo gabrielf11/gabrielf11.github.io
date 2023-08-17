@@ -1,7 +1,8 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
   content: [
-    "index.html"
+    "index.html",
+    "screen-size.html"
   ],
   theme: {
     extend: {},
