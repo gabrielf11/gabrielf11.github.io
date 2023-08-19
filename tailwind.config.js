@@ -2,7 +2,8 @@
 module.exports = {
   content: [
     "index.html",
-    "screen-size.html"
+    "screen-size.html",
+    "404.html"
   ],
   theme: {
     extend: {},
