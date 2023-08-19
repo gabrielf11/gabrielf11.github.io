@@ -1,2 +1,1 @@
-welcome to my website! practically everything is gone so expect almost everything to be missing.
-## Projects
+welcome to my new website! practically everything is gone so expect almost everything to be missing.
